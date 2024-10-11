@@ -24,7 +24,7 @@ staff <- read_csv("data/instructional-staff.csv")
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
+The size of the speech bubbles are not proportionate to the number of speakers of the language.
 
 
 
@@ -36,7 +36,7 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+By population density and total area are both measured into a pie chart which is confusing to which variable is actually being measured.
 
 
 
@@ -47,7 +47,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+Data looks clear but needs clarification on what the size of each country's circle means.
 
 
 
@@ -58,7 +58,7 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
+Clear data with different colours for each observation meaning the data visualisation is effective.
 
 
 
