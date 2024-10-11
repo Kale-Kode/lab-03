@@ -74,7 +74,8 @@ staff <- read_csv("data/instructional-staff.csv")
 ## Exercise 1
 
 What is the difference between *wide format* data and *long format* data?
-
+- Wide format data doesn't contain repeating values and each row represents one subject's repeated responses. Wide format is easy to read and suitable for row calculations.
+- Long format data has repeating values in its first column. Each row represents a single point in time per subject.
 
 Is the format `staff` data *wide* or *long*?
 
